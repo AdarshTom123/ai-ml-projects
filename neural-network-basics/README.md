@@ -20,3 +20,8 @@ Instead of just calling a library like Keras, this implements the underlying ope
 2. Run the script: python neural_network.py
 
 ## Example output
+
+    Output Predictions: [19.2 23.2 27.2 31.2]
+    Gradient of Weights:
+    Hours_Study: 20.0
+    Attendance: 300.0
